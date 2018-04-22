@@ -1,3 +1,4 @@
 # villanos
-* joker
-* harley quinn
+* Joker
+* Harley Quinn
+* Flash Reverso

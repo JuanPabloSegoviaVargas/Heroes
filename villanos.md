@@ -3,3 +3,5 @@
 * Harley Quinn
 * Flash Reverso
 * Pinguino
+* thanos
+* Locky
